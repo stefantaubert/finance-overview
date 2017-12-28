@@ -1,0 +1,15 @@
+*.suo
+/Ausgaben Menge Neu Mit Budgets/Ausgaben Menge/bin/Debug
+/Ausgaben Menge Neu Mit Budgets/Ausgaben Menge/obj/x86/Debug
+/Ausgaben Menge Neu Mit Budgets/AusgabenManager/obj/Debug
+/Ausgaben Menge Neu Mit Budgets/ImplementierterAusgabenMananger/bin/Debug
+/Ausgaben Menge Neu Mit Budgets/ImplementierterAusgabenMananger/obj/x86/Debug
+/BudgetManager/WindowsFormsApplication5/obj/Debug
+/FinanceManager/FinanceManager/obj/x86/Debug
+/FinanceMananger/FinanceMananger.Core/FinanceManager.Gui/bin/Debug
+/FinanceMananger/FinanceMananger.Core/FinanceManager.Gui/obj/x86/Debug
+/FinanceMananger/FinanceMananger.Core/FinanceMananger.Core/obj/Debug
+/BudgetManager/WindowsFormsApplication5/bin/Debug
+/FinanceManager/FinanceManager/bin/Debug
+/Ausgaben Menge Neu Mit Budgets/AusgabenManager/bin/Debug
+/FinanceMananger/FinanceMananger.Core/FinanceMananger.Core/bin/Debug
